@@ -16,4 +16,4 @@ print(f"Nombre: {nombre}")
 print(f"Apellidos: {apellidos}")
 print(f"Saldo Inicial: {saldo}")
 
-print{f"Bienvenida {nombre} {apellidos} su saldo inicial {saldo:.2f}€")
+print{f"Bienvenida {nombre} {apellidos} su saldo inicial {saldo:.2f}€"}
